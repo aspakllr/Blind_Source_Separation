@@ -1,4 +1,5 @@
 Diploma thesis for the Electrical & Computer Engineering program, University of Patras.
+
 Title: "Implementation and evaluation of separation methods for multi-channel periodic biosignals"
 
 Description: Application and comparison of different computational methods for the separation of periodic, acoustic
